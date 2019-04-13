@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog</title>
+    <link>https://conglethanh.github.io/tags/</link>
+    <description>Recent content in Tags on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>thanhcong.le1108@gmail.com (Lê Thành Công)</managingEditor>
+    <webMaster>thanhcong.le1108@gmail.com (Lê Thành Công)</webMaster>
+    <lastBuildDate>Fri, 12 Apr 2019 23:33:42 +0700</lastBuildDate>
+    
+	<atom:link href="https://conglethanh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>smalltalk</title>
+      <link>https://conglethanh.github.io/tags/smalltalk/</link>
+      <pubDate>Fri, 12 Apr 2019 23:33:42 +0700</pubDate>
+      <author>thanhcong.le1108@gmail.com (Lê Thành Công)</author>
+      <guid>https://conglethanh.github.io/tags/smalltalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verbal-thinking</title>
+      <link>https://conglethanh.github.io/tags/verbal-thinking/</link>
+      <pubDate>Fri, 12 Apr 2019 23:33:42 +0700</pubDate>
+      <author>thanhcong.le1108@gmail.com (Lê Thành Công)</author>
+      <guid>https://conglethanh.github.io/tags/verbal-thinking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

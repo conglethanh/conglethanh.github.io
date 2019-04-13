@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Blog</title>
+    <link>https://conglethanh.github.io/page/</link>
+    <description>Recent content in Pages on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>thanhcong.le1108@gmail.com (Lê Thành Công)</managingEditor>
+    <webMaster>thanhcong.le1108@gmail.com (Lê Thành Công)</webMaster>
+    
+	<atom:link href="https://conglethanh.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://conglethanh.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>thanhcong.le1108@gmail.com (Lê Thành Công)</author>
+      <guid>https://conglethanh.github.io/page/about/</guid>
+      <description>My name is Lê Thành Công. This blog was created when i was a fresher Zalo Pay at VNG 2019. I&amp;rsquo;m also a student on the third year at Ho Chi Minh University of Science. I think this is a turning point that will change my mindset and determine my career in the future&amp;hellip;
+ “Keep moving forward. One step at a time.”
+ </description>
+    </item>
+    
+  </channel>
+</rss>

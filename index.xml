@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://conglethanh.github.io/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>thanhcong.le1108@gmail.com (Lê Thành Công)</managingEditor>
+    <webMaster>thanhcong.le1108@gmail.com (Lê Thành Công)</webMaster>
+    <lastBuildDate>Fri, 12 Apr 2019 23:33:42 +0700</lastBuildDate>
+    
+	<atom:link href="https://conglethanh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Fine Art of Small Talk Book Review</title>
+      <link>https://conglethanh.github.io/post/small-talk/</link>
+      <pubDate>Fri, 12 Apr 2019 23:33:42 +0700</pubDate>
+      <author>thanhcong.le1108@gmail.com (Lê Thành Công)</author>
+      <guid>https://conglethanh.github.io/post/small-talk/</guid>
+      <description>&lt;p&gt;Cuộc sống con người không thể thiếu việc giao tiếp, người nào giao tiếp tốt thì người đó sẽ làm chủ được cuộc sống và xây dựng mối quan hệ tốt đẹp với mọi người xung quanh. Kỹ năng trò chuyện là yếu tố quyết định đến thành bại trong giao tiếp. Trò chuyện thành công là một nghệ thuật, người trò chuyện hay là một nghệ sỹ.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://conglethanh.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>thanhcong.le1108@gmail.com (Lê Thành Công)</author>
+      <guid>https://conglethanh.github.io/page/about/</guid>
+      <description>My name is Lê Thành Công. This blog was created when i was a fresher Zalo Pay at VNG 2019. I&amp;rsquo;m also a student on the third year at Ho Chi Minh University of Science. I think this is a turning point that will change my mindset and determine my career in the future&amp;hellip;
+ “Keep moving forward. One step at a time.”
+ </description>
+    </item>
+    
+  </channel>
+</rss>
